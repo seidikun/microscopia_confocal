@@ -1,7 +1,8 @@
 # microscopia_confocal
 
 Este projeto visa a desenvolver um software de configuração de parâmetros para aquisição de imagem com microscópio confocal de varredura laser.
-O programa de configuração é microscopio_confocal.py
+
+O programa de configuração é microscopio_confocal.py, baseado no modelo [LM 900](https://pages.zeiss.com/rs/896-XMS-794/images/ZEISS-Microscopy_Product-Brochure_ZEISS-LSM-900.pdf) da empresa Zeiss
 
 Dependências:
 - python 3.7
